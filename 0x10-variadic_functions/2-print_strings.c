@@ -29,6 +29,6 @@ if (separator)
 printf("%s", separator);
 }
 
-printf("\n"); 
+printf("\n");
 va_end(valist);
 }
